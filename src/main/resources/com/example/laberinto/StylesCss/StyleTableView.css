@@ -1,0 +1,21 @@
+.table-cell {
+    -fx-padding: 0 5px; /* Agrega 5 píxeles de espaciado a la izquierda y derecha de cada celda */
+}
+
+.table-row-cell:hover {
+    -fx-background-color: #E0E0E0; /* color de fondo cuando se pasa el mouse */
+}
+.table-row-cell:selected {
+    -fx-background-color: #C0C0C0; /* color de fondo de las celdas seleccionadas */
+    -fx-selection-bar: transparent;
+}
+.column-header-background {
+    -fx-background-color: #ffffff; /* color de fondo de los encabezados de columna */
+}
+.table-view .column-header {
+    -fx-background-color: #202832;
+}
+.table-view .column-header .label {
+    -fx-text-fill: white;
+}
+

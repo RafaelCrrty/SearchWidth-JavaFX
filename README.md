@@ -1,0 +1,2 @@
+Developed in JavaFX using SceneBuilder, the width search algorithm was implemented to find the most optimal path to solve a labyrinth, indicating the beginning and the end, in the same way drawing the paths and obstacles to generate a labyrinth, apart from the Breadth search, an algorithm was implemented to generate a random maze so that the user only indicates the beginning and the end.
+This program was developed using design patterns: singleton, mediator and observer, in order to have a cleaner and scalable development of the project.
